@@ -1,10 +1,10 @@
-package com.ec.consumo.soap.com.ec.consumo.soap;
+package com.ec.soap.backend.soapservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestFacturacionSriApplicationTests {
+class SoapServiceApplicationTests {
 
 	@Test
 	void contextLoads() {

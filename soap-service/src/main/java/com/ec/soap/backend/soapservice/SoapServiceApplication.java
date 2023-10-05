@@ -1,13 +1,13 @@
-package com.ec.consumo.soap.com.ec.consumo.soap;
+package com.ec.soap.backend.soapservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RestFacturacionSriApplication {
+public class SoapServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RestFacturacionSriApplication.class, args);
+		SpringApplication.run(SoapServiceApplication.class, args);
 	}
 
 }
